@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Rust / Tauri
+# (Cargo.lock SÍ se versiona: es un binario final, no una librería)
+src-tauri/target/
+
+# Editores / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env
+.env
+.env.local

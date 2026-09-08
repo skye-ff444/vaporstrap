@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vaporstrap
+Comment=Bootstrapper open source de Roblox para Linux
+Exec=vaporstrap
+Icon=io.github.vaporstrap.app
+Terminal=false
+Type=Application
+Categories=Game;Utility;
+StartupWMClass=vaporstrap

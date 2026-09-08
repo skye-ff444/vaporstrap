@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.vaporstrap.app</id>
+  <name>Vaporstrap</name>
+  <summary>Bootstrapper open source de Roblox para Linux</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <developer_name>Vaporstrap contributors</developer_name>
+  <description>
+    <p>
+      Vaporstrap es una capa de configuración (editor de FastFlags, perfiles
+      de rendimiento, mods, Discord RPC, multi-cuenta) sobre un motor externo
+      que ejecuta Roblox de forma nativa en Linux.
+    </p>
+    <p>
+      Proyecto no oficial, no afiliado a Roblox Corporation. Roblox® es marca
+      registrada de Roblox Corporation. Su uso puede infringir los Términos
+      de Servicio de Roblox; se usa bajo el propio riesgo del usuario.
+      Vaporstrap no distribuye APKs ni assets de Roblox.
+    </p>
+  </description>
+  <launchable type="desktop-id">io.github.vaporstrap.app.desktop</launchable>
+  <content_rating type="oars-1.1" />
+  <url type="homepage">https://github.com/&lt;tu-usuario&gt;/vaporstrap</url>
+  <url type="bugtracker">https://github.com/&lt;tu-usuario&gt;/vaporstrap/issues</url>
+  <releases>
+    <release version="0.1.0" date="2026-09-06">
+      <description>
+        <p>Primera estructura pública del proyecto.</p>
+      </description>
+    </release>
+  </releases>
+</component>
